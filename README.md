@@ -39,8 +39,8 @@ I love experimenting with new technologies and am an advocate of lifelong learni
 
 ### 📜 Tech Stack & Tools
 Here are the technologies I work with frequently: <br/>
-Languages: JavaScript, TypeScript, GoLang <br/>
-Backend: Node.js, Express.js, NestJS, Gin <br/>
+Languages: JavaScript, TypeScript, Python, GoLang <br/>
+Backend: Node.js, Express.js, NestJS, Django, Gin <br/>
 Database: PostgreSQL, MongoDB <br/>
 Microservices: AWS (EC2, Route53, Lambda, S3, API Gateway), Kubernetes, Docker, NATS <br/>
 Frontend: React, Vue.js (where applicable) <br/>
