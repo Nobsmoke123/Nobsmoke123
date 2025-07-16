@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ## About Me
-I'm Donald Mezie, also known as Cobalt9 online. I'm a passionate, detail-oriented, and ambitious Senior Software Developer with expertise in designing and architecting enterprise-grade software solutions. I thrive on innovation and enjoy tackling complex challenges to build scalable, reliable, and robust systems.
+I'm a passionate, detail-oriented, and ambitious Senior Software Developer with expertise in designing and architecting enterprise-grade software solutions. I thrive on innovation and enjoy tackling complex challenges to build scalable, reliable, and robust systems.
 My professional journey has equipped me with in-depth experience in backend development, microservices architecture, and cutting-edge tools like AWS, Kubernetes, NATS, and Node.js with TypeScript. I focus on delivering exceptional user experiences while maintaining a clean and maintainable codebase.
 
 ### 🔭 What I'm Currently Working On
